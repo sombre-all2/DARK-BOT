@@ -40,7 +40,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 //semt menu variants
 global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['2250556933397'] //ur owner number
-global.ownername = "𝐃𝐀𝐑𝐊" //ur owner name
+global.ownername = "𝐊𝐈𝐋𝐋𝐔𝐀" //ur owner name
 global.ytname = "YT: 𝐒𝐎𝐌𝐁𝐑𝐄 𝐃𝐀𝐄𝐌𝐎𝐍" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "côte d'ivoire, Abidjan, Aizawl" //ur location
@@ -70,7 +70,7 @@ global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "🪄" //ur menu react emoji
 global.themeemoji = "🎭" //ur theme emoji
 global.packname = "📶 𝐒𝐎𝐌𝐁𝐑𝐄 𝐃𝐀𝐄𝐌𝐎𝐍 📶" //ur sticker watermark packname
-global.author = "📶 𝐃𝐀𝐑𝐊 📶" //ur sticker watermark author
+global.author = "📶" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['2250501127233'] //ur premium numbers
+global.premium = ['2250556933397'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
